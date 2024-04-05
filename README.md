@@ -53,7 +53,7 @@ Here's a documentation template for your GitHub README file:
 
 ---
 
-# OCR Text Recognition and Text-to-Speech Conversion
+# OCR Text Recognition
 
 This script performs optical character recognition (OCR) on images and converts the recognized text to speech using the Google Text-to-Speech (gTTS) library.
 
